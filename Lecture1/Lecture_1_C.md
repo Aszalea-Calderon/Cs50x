@@ -17,3 +17,5 @@ Switching over to Hello_world.c
 Syntax highlighting is something that is built into VS code
 
 A CLI is Command line interface (sometimes known as Terminal) and is where you can type things into to interact directly with the computer. 
+
+### Part 2: 9:16
